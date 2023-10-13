@@ -47,7 +47,7 @@ cloud.google.com/go/pubsub/apiv1/pubsubpb
 cloud.google.com/go/pubsub/internal
 cloud.google.com/go/pubsub/internal/distribution
 cloud.google.com/go/pubsub/internal/scheduler
-# cloud.google.com/go/secretmanager v1.11.1
+# cloud.google.com/go/secretmanager v1.11.2
 ## explicit; go 1.19
 cloud.google.com/go/secretmanager/apiv1
 cloud.google.com/go/secretmanager/apiv1/secretmanagerpb
@@ -814,7 +814,7 @@ golang.org/x/mod/internal/lazyregexp
 golang.org/x/mod/modfile
 golang.org/x/mod/module
 golang.org/x/mod/semver
-# golang.org/x/net v0.16.0
+# golang.org/x/net v0.17.0
 ## explicit; go 1.17
 golang.org/x/net/context
 golang.org/x/net/http/httpguts

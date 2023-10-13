@@ -6,7 +6,7 @@ require (
 	cloud.google.com/go/logging v1.8.1
 	cloud.google.com/go/profiler v0.3.1
 	cloud.google.com/go/pubsub v1.33.0
-	cloud.google.com/go/secretmanager v1.11.1
+	cloud.google.com/go/secretmanager v1.11.2
 	cloud.google.com/go/storage v1.33.0
 	github.com/dvyukov/go-fuzz v0.0.0-20220726122315-1d375ef9f9f6
 	github.com/golangci/golangci-lint v1.54.2
@@ -16,7 +16,7 @@ require (
 	github.com/prometheus/client_golang v1.17.0
 	github.com/stretchr/testify v1.8.4
 	github.com/ulikunitz/xz v0.5.11
-	golang.org/x/net v0.16.0
+	golang.org/x/net v0.17.0
 	golang.org/x/oauth2 v0.13.0
 	golang.org/x/perf v0.0.0-20230221235046-aebcfb61e84c
 	golang.org/x/sync v0.4.0
